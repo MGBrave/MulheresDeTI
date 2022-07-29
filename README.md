@@ -23,6 +23,8 @@ Recursos de treinamento, educação e apoio para mulheres na Tecnologia da Infor
 
 | Trabalho |     |
 |----|----|
+|[Ada´s List](https://www.adaslist.co/)|Este site oferece quadros de empregos e fóruns para permitir que as mulheres em tecnologia se conectem e encontrem oportunidades e conselhos.|
+|[Elpha](https://elpha.com/)|Este site ajuda as mulheres em tecnologia a se conectarem, descobrirem novas oportunidades de carreira e aprenderem umas com as outras em um ambiente seguro.|
 |[Se Candidate Mulher!](https://secandidatemulher.com.br/)|Incluem mais mulheres no mercado de trabalho aumentando a representatividade feminina nas organizações.|
 |[Mulheres na Computação](https://mulheresnacomputacao.com/category/vagas/)| Incentivam, discutem, difundem, assuntos relacionados a tecnologia e empreendedorismo|
 
