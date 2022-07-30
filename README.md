@@ -22,6 +22,7 @@ Recursos de treinamento, educação e apoio para mulheres na Tecnologia da Infor
 |<img src="./flags/eua.png" width="40px">|[Woman who code](https://www.womenwhocode.com/)| Esta organização oferece recursos de codificação para mulheres, oportunidades de liderança, bolsas de estudo, ingressos para conferências e um quadro de empregos.  |
 |<img src="./flags/br.jpg" width="40px">|[Who Makers Code](https://womakerscode.org/)| Instituição sem fins lucrativos, com a missão de inspirar e impulsionar meninas e mulheres que desejam ingressar ou se especializar em carreiras ligadas à tecnologia e inovação|
 |<img src="./flags/br.jpg" width="40px">|[progra{m}aria](https://www.programaria.org/)|Tem a missão de empoderar meninas e mulheres por meio da tecnologia|
+||[Chicas en Tecnología](https://chicasentecnologia.org)|Organização da sociedade civil sem fins lucrativos  busca reduzir a diferença de gênero em tecnologia na região.|
 
 <br>
 <br>
