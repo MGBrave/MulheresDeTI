@@ -12,6 +12,7 @@ Recursos de treinamento, educação e apoio para mulheres na Tecnologia da Infor
 |Idioma| Nome  |     |
 |:---:|:----:|:----|
 |<img src="./flags/eua.png" width="40px"> |[Chicktech](https://chicktech.org/)|Esta organização oferece educação continuada, oportunidades de aprendizado para estudantes mais jovens acampamentos de verão e grupos de encontro para adultos, bem como conferências anuais. Atende em 34 estados dos EUA e 15 países ao redor do mundo|
+|<img src="./flags/br.jpg" width="40px">|[Digital Innovation One](<img src="./flags/br.jpg" width="40px">)|Plataforma voltada exclusivamente para desenvolvimento de TI, com alguns bootcamps voltados para mulheres.|
 |<img src="./flags/br.jpg" width="40px">|[Girls in Tech](https://brazil.girlsintech.org/)| É uma iniciativa global sem fins lucrativos focada em promover engajamento, educação e empoderamento de meninas e mulheres apaixonadas por tecnologia.|
 |<img src="./flags/br.jpg" width="40px">|[InspirAda Academy](https://academy.inspiradanacomputacao.com/)|É um espaço de comunicação colaborativa para dar voz às mulheres na computação, ciência e tecnologia. Compartilha conteúdo como forma de estimular mulheres para área de computação, promover o acesso ao conhecimento técnico e trazer como resultado a igualdade de oportunidades, uma nova cultura nos ambientes de trabalho e fomentar o interesse feminino para áreas tecnológicas.|
 |<img src="./flags/br.jpg" width="40px">|[Minas Programam](http://minasprogramam.com/)|Promove um espaço de formação básica em programação para meninas e mulheres que queiram fazer sites, trabalhar com tecnologia, saber mais sobre programação, mas não sabem por onde começar. Além de programação, também é discutido mercado de trabalho, segurança e privacidade e software livre.|
@@ -22,7 +23,7 @@ Recursos de treinamento, educação e apoio para mulheres na Tecnologia da Infor
 |<img src="./flags/eua.png" width="40px">|[Woman who code](https://www.womenwhocode.com/)| Esta organização oferece recursos de codificação para mulheres, oportunidades de liderança, bolsas de estudo, ingressos para conferências e um quadro de empregos.  |
 |<img src="./flags/br.jpg" width="40px">|[Who Makers Code](https://womakerscode.org/)| Instituição sem fins lucrativos, com a missão de inspirar e impulsionar meninas e mulheres que desejam ingressar ou se especializar em carreiras ligadas à tecnologia e inovação|
 |<img src="./flags/br.jpg" width="40px">|[progra{m}aria](https://www.programaria.org/)|Tem a missão de empoderar meninas e mulheres por meio da tecnologia|
-||[Chicas en Tecnología](https://chicasentecnologia.org)|Organização da sociedade civil sem fins lucrativos  busca reduzir a diferença de gênero em tecnologia na região.|
+|<img src="./flags/ar.png" width="40px">|[Chicas en Tecnología](https://chicasentecnologia.org)|Organização da sociedade civil sem fins lucrativos  busca reduzir a diferença de gênero em tecnologia na região.|
 
 <br>
 <br>
