@@ -4,9 +4,9 @@ Recursos de treinamento, educação e apoio para mulheres na Tecnologia da Infor
 <br>
 <br>
 
-| Nome  |     |
-|----|----|
-|[Chicktech](https://chicktech.org/)|Esta organização oferece educação continuada, oportunidades de aprendizado para estudantes mais jovens acampamentos de verão e grupos de encontro para adultos, bem como conferências anuais. Atende em 34 estados dos EUA e 15 países ao redor do mundo|
+|| Nome  |     |
+|---|----|----|
+|<img src="" width="40px"> |[Chicktech](https://chicktech.org/)|Esta organização oferece educação continuada, oportunidades de aprendizado para estudantes mais jovens acampamentos de verão e grupos de encontro para adultos, bem como conferências anuais. Atende em 34 estados dos EUA e 15 países ao redor do mundo|
 |[Girls in Tech](https://brazil.girlsintech.org/)| É uma iniciativa global sem fins lucrativos focada em promover engajamento, educação e empoderamento de meninas e mulheres apaixonadas por tecnologia.|
 |[InspirAda Academy](https://academy.inspiradanacomputacao.com/)|É um espaço de comunicação colaborativa para dar voz às mulheres na computação, ciência e tecnologia. Compartilha conteúdo como forma de estimular mulheres para área de computação, promover o acesso ao conhecimento técnico e trazer como resultado a igualdade de oportunidades, uma nova cultura nos ambientes de trabalho e fomentar o interesse feminino para áreas tecnológicas.|
 |[MariaLab](https://www.marialab.org/)|A MariaLab é uma associação sem fins lucrativos, sem vínculo político-partidário e com empresas do setor privado, que atua na intersecção entre política, gênero e suas tecnologias. Fornecem a infraestrutura necessária para que mulheres possam desenvolver seus projetos de TI. |
